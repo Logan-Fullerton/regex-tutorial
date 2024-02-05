@@ -1,4 +1,4 @@
-# Title Regex Tutorial
+# Regex Tutorial
 For challenge 17 I will be breaking down a commonly used regular expression into its components. A regular expression is a sequence of charecters that are used to search for certain charecters or patterns within a string. They are commonly used when adding restraints or validations in code. To better understand how regex functions work I will break down a common regex into its parts and explain what each of them do
 
 
